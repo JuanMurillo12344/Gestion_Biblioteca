@@ -1,4 +1,4 @@
-﻿using Dominio.Abstracciones;
+using Dominio.Abstracciones;
 
 namespace Dominio.Usuarios.Events;
 
